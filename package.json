@@ -1,0 +1,8 @@
+{
+  "name": "pnpm-issue",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@7.16.0"
+}
